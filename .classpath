@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="estruturas-de-dados-master/queue/queues-implementations-project/src"/>
+	<classpathentry kind="lib" path="estruturas-de-dados-master/stack/stack-min-project/libs/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="estruturas-de-dados-master/stack/stack-min-project/libs/junit-4.13-beta-3.jar"/>
+	<classpathentry kind="lib" path="estruturas-de-dados-master/stack/stacks-implementations-project/libs/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="estruturas-de-dados-master/stack/stacks-implementations-project/libs/junit-4.13-beta-3.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="output" path="estruturas-de-dados-master/queue/queues-implementations-project/bin"/>
+</classpath>
